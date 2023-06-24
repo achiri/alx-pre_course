@@ -1,1 +1,1 @@
-Excited with the alx git lessons
+Excited with the git lessons from ALX
